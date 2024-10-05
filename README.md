@@ -74,4 +74,4 @@ To compile and run Cub3D, you will need:
    Doors (represented by 'D' in the map file) behave like walls but with diffrent textures and can be opened with 'E'.
 
 ## Credits
-- (**Cute Sound Library**)[https://github.com/RandyGaul/cute_headers/blob/master/cute_sound.h]: for managing sound effects in the project. (Thanks to (@Randy)[https://github.com/RandyGaul])
+- (Cute Sound Library)[https://github.com/RandyGaul/cute_headers/blob/master/cute_sound.h]: for managing sound effects in the project. Thanks to (@Randy)[https://github.com/RandyGaul].
