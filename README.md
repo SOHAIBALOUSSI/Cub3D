@@ -2,6 +2,7 @@
 # Cub3D Raycasting Project
 
 ## Table of Contents
+- [Preview](#preview)
 - [Intro](#intro)
 - [Features](#features)
 - [Requirements](#requirements)
@@ -10,6 +11,10 @@
 - [Technical Details](#technical-details)
 - [Credits](#credits)
 
+## Preview
+![Screenshot from 2024-10-05 18-55-00](https://github.com/user-attachments/assets/d1b3622f-3a0f-49e4-af47-6d35cd70d1d3)
+
+[Game play](https://github.com/user-attachments/assets/a4526cd7-8b1e-4c9f-9041-3cfac03ad381)
 
 ## Intro
 Cub3D is a raycasting-based 3D game engine developed as part of the 42 School curriculum. The goal is to simulate a 3D environment in a 2D grid world by calculating the intersections of rays with walls and projecting them to create a first-person view. This project focuses on concepts like raycasting, texture mapping, collision detection, and efficient rendering using the **MiniLibX** library.
@@ -24,7 +29,10 @@ Cub3D is a raycasting-based 3D game engine developed as part of the 42 School cu
 
 ## Requirements
 To compile and run Cub3D, you will need:
-- **Linux machine (cuz MacOs is bad)**
+- **Linux machine
+
+
+ (cuz MacOs is bad)**
 - **MiniLibX** (included with the project for 42's student)
 ```bash
   sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
