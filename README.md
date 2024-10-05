@@ -26,13 +26,11 @@ Cub3D is a raycasting-based 3D game engine developed as part of the 42 School cu
 - **Collision Detection:** Ensures that the player cannot walk through walls.
 - **Doors:** Doors behave like walls but use a different texture and are rendered conditionally.
 - **Gun animation:** The player holds a gun that can shoot the shooting boards.
+- **Minimap:** Yes, a minimap
 
 ## Requirements
 To compile and run Cub3D, you will need:
-- **Linux machine
-
-
- (cuz MacOs is bad)**
+- **Linux machine** (cuz MacOs is bad)**
 - **MiniLibX** (included with the project for 42's student)
 ```bash
   sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
