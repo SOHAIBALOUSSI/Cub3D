@@ -6,7 +6,7 @@
 /*   By: sait-alo <sait-alo@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/09/29 15:01:58 by sait-alo          #+#    #+#             */
-/*   Updated: 2024/10/01 14:28:57 by sait-alo         ###   ########.fr       */
+/*   Updated: 2024/10/06 09:39:52 by sait-alo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,7 +21,7 @@
 # include <math.h>
 # include <SDL2/SDL.h>
 # include <X11/X.h>
-# include <mlx.h>
+# include "../mlx/mlx.h"
 # include "../include/libft/libft.h"
 # include "../include/cute_sound/cute_sound.h"
 # include "../include/gc.h"
